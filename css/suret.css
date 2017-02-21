@@ -212,6 +212,7 @@ line-height: 25px;
 .sonluq .top img{ 
     height: 370;
         width: 472.7px;
+        float: left;
 }
 .orta{
    height: 360px;
